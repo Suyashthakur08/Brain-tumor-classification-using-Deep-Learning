@@ -52,7 +52,3 @@ The model provides classifications for given MRI scans, assisting in brain tumor
 ## Acknowledgments
 - **Dataset:** Brain Tumor Classification MRI Dataset
 - **Libraries:** TensorFlow, Keras, OpenCV, Albumentations, and scikit-learn.
-
-## License
-This project is open-source and available under the MIT License.
-
